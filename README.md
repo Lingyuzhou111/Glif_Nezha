@@ -14,11 +14,13 @@ Glif_Nezha是一款通过简单提示词就能复刻特定角色形象的AI绘�
 1. 访问glif平台官网 https://glif.app/，注册glif账号（需要谷歌或Discord账号）
 2. 登录后访问 https://glif.app/settings/api-tokens 获取API token
 3. 下载Glif_t2i插件包，解压后将Glif_t2i文件夹上传至到chatgpt-on-wechat/dify-on-wechat下的plugins目录，确保目录层级符合以下格式：
-   plugins
+```
+plugins
    └── Glif_Nezha
            └── config.json
            └── Glif_Nezha.py
            └── init.py
+```
 
 4. 在插件目录下的config.json中配置你的api_token：
 ```json
