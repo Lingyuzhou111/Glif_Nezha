@@ -1,0 +1,2 @@
+# Glif_Nezha
+Glif_Nezha是一款通过简单提示词就能复刻特定角色形象的AI绘图插件
