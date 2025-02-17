@@ -38,8 +38,8 @@ class Glif_Nezha(Plugin):
             
             # 定义触发词到模型ID的映射
             self.model_configs = {
-                "cm6zapr9v0000stff1002b4fb": ["哪吒", "魔丸哪吒", "魔童哪吒"],
-                "cm6zewimi0003fp45j09st0hx": ["灵珠", "灵珠哪吒", "正版哪吒"],
+                "cm6zapr9v0000stff1002b4fb": ["哪吒", "魔丸", "魔丸哪吒"],
+                "cm6zewimi0003fp45j09st0hx": ["灵珠", "灵珠哪吒"],
                 "cm73qmq3d0000sg3muwfpnj6g": ["成年哪吒"],
                 "cm73nyy8f000ah5gj83vxte5p": ["太乙", "太乙真人"],
                 "cm73q06ll000ek0scgndiq0m5": ["申公豹"],                
