@@ -7,7 +7,7 @@ Glif_Nezha是一款通过简单提示词就能复刻特定角色形象的AI绘�
 - 插件名称：Glif_Nezha
 - 作者：Lingyuzhou
 - 版本：1.0
-- 描述：基于个Glif API的免费图像生成插件
+- 描述：基于Glif API的免费图像生成插件
 
 ## 安装方法
 
