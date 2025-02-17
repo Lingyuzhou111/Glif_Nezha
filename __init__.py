@@ -1,1 +1,1 @@
-from .Glif_Nezha import *
+from .Glif_Nezha2 import *
